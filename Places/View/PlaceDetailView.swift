@@ -76,7 +76,7 @@ extension PlaceDetailView {
     // MARK: coverImage
     
     
-    // MARK: nameSection
+    // MARK: profile
     private func profile(_ outerProxy: GeometryProxy) -> some View {
         return HStack(alignment: VerticalAlignment.top) {
             Image(place.images[0])
@@ -97,7 +97,7 @@ extension PlaceDetailView {
         }
         .padding()
     }
-    // MARK: nameSection
+    // MARK: profile
     
     
     // MARK: description
