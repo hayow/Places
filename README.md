@@ -14,6 +14,7 @@ Places app is an app used to view a collection of places. Main objective of this
 
 ## Images of the project
 
-![image1 001](https://user-images.githubusercontent.com/114774767/199265453-ef5df87b-5aa3-4b1d-ae8e-ab4d0a6bbf72.jpeg)
-
-
+![image1](https://user-images.githubusercontent.com/114774767/199266449-6a3b07b5-b739-4028-b9b7-d0eec03edb5d.jpeg)
+![image2](https://user-images.githubusercontent.com/114774767/199266454-33cbe803-1dfa-4474-b0db-895489acdacd.jpeg)
+![image3](https://user-images.githubusercontent.com/114774767/199266457-46037889-ba08-4d52-ac0e-1052be1dcecf.jpeg)
+![image4](https://user-images.githubusercontent.com/114774767/199266460-66a0cea9-ac99-40bd-bdcd-f42dae00cf72.jpeg)
