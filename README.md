@@ -12,6 +12,11 @@ Places app is an app used to view a collection of places. Main objective of this
 - TabView
 - Image
 
+## A glimpse of Places app
+
+![places-app-gif](https://user-images.githubusercontent.com/114774767/199352055-8cdbdb89-1e7c-4fa6-8283-1d2c751cef14.gif)
+
+
 ## Images of the project
 
 ![image1](https://user-images.githubusercontent.com/114774767/199266449-6a3b07b5-b739-4028-b9b7-d0eec03edb5d.jpeg)
