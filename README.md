@@ -8,9 +8,9 @@ Places app is an app used to view a collection of places. Main objective of this
 
 ## SwiftUI features used in this project
 - NavigtionStack and NavigationLink
-- ScrollView GeometryReader
-- TabView
-- Image
+- ScrollView and GeometryReader
+- TabView and Images
+- Maps
 
 ## A glimpse of Places app
 
